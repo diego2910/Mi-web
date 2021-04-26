@@ -1,0 +1,263 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+a {
+  color: #3B83BD;
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header .social-links a:hover {
+  background: #3B83BD;
+}
+#header h2 span {
+  border-bottom: 2px solid #3B83BD;
+}
+/*--------------------------------------------------------------
+# Navigation Menu
+--------------------------------------------------------------*/
+.navbar a:before {
+  background-color: #3B83BD;
+}
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+.section-title h2::after {
+  background: #3B83BD;
+}
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+.about-me .content h3 {
+  color: #3B83BD;
+}
+.about-me .content ul i {
+  color: #3B83BD;
+}
+/*--------------------------------------------------------------
+# Skills
+--------------------------------------------------------------*/
+.skills .progress-bar {
+  background-color: #3B83BD;
+}
+/*--------------------------------------------------------------
+# Resume
+--------------------------------------------------------------*/
+.resume .resume-item h4 {
+  color: #3B83BD;
+}
+.resume .resume-item::before {
+  background: #3B83BD;
+  border: 2px solid #3B83BD;
+}
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
+.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+  background: #3B83BD;
+}
+/*--------------------------------------------------------------
+# Portfolio Details
+--------------------------------------------------------------*/
+.portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #3B83BD;
+}
+/*--------------------------------------------------------------
+# Contact
+--------------------------------------------------------------*/
+.contact .info-box i.bx {
+  color: #3B83BD;
+}
+.contact .info-box .social-links a:hover {
+  color: #3B83BD;
+}
+.contact .php-email-form .sent-message {
+  background: #3B83BD;
+}
+.contact .php-email-form .loading:before {
+  border: 3px solid #3B83BD;
+}
+
+/*--------------------------------------------------------------
+# Credits
+--------------------------------------------------------------*/
+.credits a {
+  color: #3B83BD;
+}
+.glightbox-clean .gdesc-inner{
+  padding: 12px 10px;
+  border: 2px dashed #D9DFE1;
+}
+.gdesc-inner{
+  background-color: #131516;
+  }
+#gSlideTitle_0.gslide-title{
+  color:#fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+}
+#gSlideTitle_1.gslide-title{
+  color:#fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+}
+#gSlideTitle_2.gslide-title{
+  color:#fff;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+#gSlideTitle_3.gslide-title{
+  color:#fff;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+#gSlideTitle_4.gslide-title{
+  color:#fff;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+#gSlideTitle_5.gslide-title{
+  color:#fff;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+#gSlideTitle_6.gslide-title{
+  color:#fff;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+#gSlideTitle_7.gslide-title{
+  color:#fff;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+#gSlideTitle_8.gslide-title{
+  color:#fff;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+#gSlideTitle_9.gslide-title{
+  color:#fff;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.swiper-slide{
+  text-align: center;
+}
+.portfolio-details .portfolio-title{
+  text-align: center;
+}
+.contact .php-email-form {
+  padding: 30px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.contact .html-email-form .error-message {
+  display: none;
+  background: rgba(255, 255, 255, 0.08);
+  background: #ed3c0d;
+  text-align: left;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .html-email-form .error-message br + br {
+  margin-top: 25px;
+}
+
+.contact .html-email-form .sent-message {
+  display: none;
+  background: rgba(255, 255, 255, 0.08);
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .html-email-form .loading {
+  display: none;
+  background: rgba(255, 255, 255, 0.08);
+  text-align: center;
+  padding: 15px;
+}
+
+.contact .html-email-form .loading:before {
+  content: "";
+  display: inline-block;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  margin: 0 10px -6px 0;
+  border: 3px solid #18d26e;
+  border-top-color: #eee;
+  -webkit-animation: animate-loading 1s linear infinite;
+  animation: animate-loading 1s linear infinite;
+}
+
+.contact .html-email-form input, .contact .html-email-form textarea {
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 0;
+  transition: 0.3s;
+  color: #fff;
+}
+
+.contact .html-email-form input:focus, .contact .html-email-form textarea:focus {
+  background-color: rgba(255, 255, 255, 0.11);
+}
+
+.contact .html-email-form input::-webkit-input-placeholder, .contact .html-email-form textarea::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.3);
+  opacity: 1;
+}
+
+.contact .html-email-form input::-moz-placeholder, .contact .html-email-form textarea::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.3);
+  opacity: 1;
+}
+
+.contact .html-email-form input::placeholder, .contact .html-email-form textarea::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+  opacity: 1;
+}
+
+.contact .html-email-form input {
+  padding: 10px 15px;
+}
+
+.contact .html-email-form textarea {
+  padding: 12px 15px;
+}
+
+.contact .html-email-form button[type="submit"] {
+  background: #3B83BD;
+  border: 0;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 4px;
+}
+
+.contact .html-email-form button[type="submit"]:hover {
+  background: #2E76B1;
+}
+.portfolio-details .portfolio-info{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  align-content: space-between;
+  justify-content: center;
+}
