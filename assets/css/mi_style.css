@@ -78,13 +78,6 @@ a {
 .contact .php-email-form .loading:before {
   border: 3px solid #3B83BD;
 }
-.contact .php-email-form button[type="submit"] {
-  background: #3B83BD;
-}
-
-.contact .php-email-form button[type="submit"]:hover {
-  background: #2E76B1;
-}
 
 /*--------------------------------------------------------------
 # Credits
@@ -250,7 +243,7 @@ a {
 }
 
 .contact .html-email-form button[type="submit"] {
-  background: #18d26e;
+  background: #3B83BD;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -259,7 +252,7 @@ a {
 }
 
 .contact .html-email-form button[type="submit"]:hover {
-  background: #15bb62;
+  background: #2E76B1;
 }
 .portfolio-details .portfolio-info{
   display: flex;
